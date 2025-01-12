@@ -10,9 +10,7 @@ Hello :wave: my name is Muhammad Hisyam. My journey in information system has le
 ## Skill Learned
 - linux OS
 - Windows OS
-- Wireshark
 - Cryptography and Hashing (John the Ripper)
-- Moniker Link (CVE-2024-21413)
 - Metasploit (Vulnerability Assessment, Exploitation, Meterpreter)
 - Web Hacking (JavaScript & SQL Fundamentals, Burpsuite)
 - Security Awareness Training (Red Teaming)
