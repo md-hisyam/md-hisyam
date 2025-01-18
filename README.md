@@ -10,7 +10,7 @@ Hello :wave: my name is Muhammad Hisyam. My journey in information system has le
 ## Skill Learned
 - linux OS
 - Windows OS
-- Cryptography and Hashing (John the Ripper)
+- Cryptography and Hashing
 - Metasploit (Vulnerability Assessment, Exploitation, Meterpreter)
 - Web Hacking (JavaScript & SQL Fundamentals, Burpsuite)
 - Security Awareness Training (Red Teaming)
