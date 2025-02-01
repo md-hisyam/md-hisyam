@@ -1,7 +1,7 @@
 # Whoami :penguin:
 Hello :wave: my name is Muhammad Hisyam. My journey in information system has led me to develop a passion for cybersecurity, and I'am now eager to transition into this field and constantly refining my skills through hands-on projects, simulations, and training with aim to joining Security Operations Center (SOC) teams.
 
-## Project and Write-up
+## Project and Write-ups
 
 | Name             | Description    | 
 |-------------------|----------------------|
