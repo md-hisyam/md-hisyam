@@ -13,4 +13,5 @@ Hello :wave: my name is Muhammad Hisyam. My journey in information system has le
 - Cryptography and Hashing
 - Metasploit (Vulnerability Assessment, Exploitation, Meterpreter)
 - Web Hacking (JavaScript & SQL Fundamentals, Burpsuite)
-- Security Awareness Training (Red Teaming)
+- Security Awareness Training
+- Malware Analysis
