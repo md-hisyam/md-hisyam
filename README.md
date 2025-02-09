@@ -10,10 +10,10 @@ Hello :wave: my name is Muhammad Hisyam. My journey in information system has le
 | <a href="https://github.com/md-hisyam/md-hisyam/blob/main/mdvmware.pdf" target="_blank"> Flare VM </a> | FLARE VM (FireEye Labs Advanced Reverse Engineering Virtual Machine) is a Windows-based virtual machine specifically designed for malware analysis and reverse engineering. It provides a preconfigured environment with a wide variety of tools that are commonly used for dissecting malware, analyzing suspicious files, and performing forensic investigations.|
 | <a href="https://github.com/md-hisyam/md-hisyam/blob/main/mdbruteforce.pdf" target="_blank"> Brute Force Demo </a> | A password brute force attack is a method used by attackers to gain unauthorized access to a system, account, or network by systematically trying every possible combination of passwords until the correct one is found. This type of attack can be applied to web applications, online accounts, and other systems that require password authentication.|
 
-## Cheat sheets
+## my additional notes
 | Name             | Description    | 
 |-------------------|----------------------|
-|Google Dorking |----------------------|
+|Google Dorking | Google Dorking, also known as Google hacking, is a technique used to find hidden or sensitive information on websites by using advanced search operators in Google’s search engine. These search operators allow users to refine their searches in ways that aren’t typically possible with standard Google searches.|
 
 
 ## Skill Learned
