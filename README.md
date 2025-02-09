@@ -13,7 +13,7 @@ Hello :wave: my name is Muhammad Hisyam. My journey in information system has le
 ## Additional Notes
 | Name             | Description    | 
 |-------------------|----------------------|
-|Google Dorking | Google Dorking, also known as Google hacking, is a technique used to find hidden or sensitive information on websites by using advanced search operators in Google’s search engine. These search operators allow users to refine their searches in ways that aren’t typically possible with standard Google searches.|
+|Google Dorking | Google Dorking, also known as Google hacking, is a technique used to find hidden or sensitive information on websites by using advanced search in Google’s search engine. These search commands allow users to refine their searches in ways that aren’t typically possible with standard Google searches.|
 
 
 ## Skill Learned
