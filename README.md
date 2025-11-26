@@ -1,4 +1,4 @@
-# Whoami :penguin:
+# Welcome to my cybersecurity portfolio :penguin:
 Hello :wave: my name is Muhammad Hisyam. My journey in information system has led me to develop a passion for cybersecurity, and I'am now eager to transition into this field and constantly refining my skills through hands-on projects, simulations, training, and CTF. With aim to joining Security Operations Center (SOC) teams.
 
 ## Write-ups
