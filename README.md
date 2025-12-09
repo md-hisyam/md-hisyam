@@ -10,7 +10,7 @@ My journey in information systems has led me to develop a strong passion for cyb
 - Security Frameworks & Standards
 - Windows & Linux Administration
 
-## My goals for skill developmet :
+and currently expanding my knowledge in…
 - Advancing penetration testing/red teaming skills
 - Cloud security (attacking and defending)
 - Malware analysis
