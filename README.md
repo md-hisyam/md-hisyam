@@ -3,13 +3,12 @@ My journey in information systems has led me to develop a strong passion for cyb
 
 ## My skill set :
 - SIEM Monitoring & Analysis (Splunk, Elastic)
-- Log Analysis & Threat Detection (Wireshark, Brim)
+- Log Analysis & Threat Detection
 - Incident Response Fundamentals
 - Network Security & Traffic Analysis
 - Endpoint Security
-- Scripting: Python & Bash
-- Security Frameworks & Standards (MITRE ATT&CK, NIST)
-- Windows & Linux Administration Basics
+- Security Frameworks & Standards
+- Windows & Linux Administration
 
 ## My goals for skill developmet :
 - Advancing penetration testing/red teaming skills
