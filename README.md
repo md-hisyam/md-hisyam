@@ -4,7 +4,7 @@ My journey in information systems has led me to develop a strong passion for cyb
 ## What I Do
 - Cybersecurity Analyst (SOC, Threat Hunting, Malware Analysis)
 - Penetration Testing & Vulnerability Research
-- Actively participate in Capture The Flag (CTF) challenges.
+- Exploring Capture The Flag (CTF) challenges.
 
 and currently expanding my knowledge in…
 - Advancing penetration testing/red teaming skills
