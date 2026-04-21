@@ -10,3 +10,7 @@ and currently expanding my knowledge in…
 - Advancing penetration testing/red teaming skills
 - Cloud security (attacking and defending)
 - Security automation
+
+***
+
+
