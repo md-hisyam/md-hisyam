@@ -7,7 +7,7 @@ My journey in information systems has led me to develop a strong passion for cyb
 - Exploring Capture The Flag (CTF) challenges.
 
 and currently expanding my knowledge in…
-- Advancing penetration testing/red teaming skills
+- Red teaming skills
 - Cloud security (attacking and defending)
 - Security automation
 
