@@ -1,4 +1,4 @@
-# 🛡️ Areas of Interest & Practice
+## 🛡️ Areas of Interest & Practice
 - Security Operations (SOC): Security monitoring, threat detection, log analysis, and incident response.
 - Threat Hunting: Investigating suspicious activities, identifying indicators of compromise (IOCs), and analyzing potential threats.
 - Malware Analysis: Exploring malware behavior, static analysis, and dynamic analysis.
